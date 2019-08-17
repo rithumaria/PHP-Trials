@@ -7,6 +7,6 @@ function generateStory($singular_noun, $verb, $color, $distance_unit)
 \nAnd $distance_unit to go before I $verb.\n";
   return $story;
 }
-echo generateStory("rabbit", "eat", "green","4");
+echo generateStory("rabbit", "eat", "green","48");
 echo generateStory("car", "cook", "vermilion", "97");
 echo generateStory("empty void", "speak", "beige", "9");
