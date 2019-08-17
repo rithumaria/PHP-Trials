@@ -8,5 +8,5 @@ function generateStory($singular_noun, $verb, $color, $distance_unit)
   return $story;
 }
 echo generateStory("rabbit", "eat", "green","4");
-echo generateStory("car", "cook", "vermilion", "3");
+echo generateStory("car", "cook", "vermilion", "97");
 echo generateStory("empty void", "speak", "beige", "9");
