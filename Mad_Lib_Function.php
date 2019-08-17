@@ -9,4 +9,4 @@ function generateStory($singular_noun, $verb, $color, $distance_unit)
 }
 echo generateStory("rabbit", "eat", "green","48");
 echo generateStory("car", "cook", "vermilion", "97");
-echo generateStory("empty void", "speak", "beige", "9");
+echo generateStory("empty void", "speak", "beige", "59");
