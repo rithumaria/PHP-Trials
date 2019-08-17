@@ -1,7 +1,7 @@
 <?php
   $riel=2143942;
 	$kyat=19092;
-	$krones=109;
+	$krones=1094;
 	$lek=9094;
 	echo "At the start of your transaction you had $riel riel, $kyat kyat, $krones krones, and $lek lek.";
   $riel_to_usd = 0.00026;
