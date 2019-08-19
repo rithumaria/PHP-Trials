@@ -7,7 +7,6 @@ $assignment_two = ["Alex"=> 91, "Kenny"=> 99, "Natalia"=> 100, "Lily"=> 61, "Dan
 $assignment_three = ["Alex"=> 78, "Kenny"=> 92, "Natalia"=> 94, "Lily"=> 79, "Dan"=> 73, "Sara" => 61];
 
 $student_name = "Alex";
-// Write your code below:
 
 $assignment_two["Sara"] = 65;
 $assignment_three["Kat"] = 97;
