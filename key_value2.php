@@ -10,8 +10,6 @@ $my_car = [
   "headlights" => "bright"
 ];
 print_r($my_car);
-
-// Write your code below:
 unset($my_car["oil"]);
 $my_car["oil"]="new and premium";
 unset($my_car["tires"]);
