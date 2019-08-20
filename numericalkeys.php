@@ -1,7 +1,5 @@
 <?php
 namespace Codecademy;
-
-// Write your code below:
 $hybrid_array = ["cat", "dog", 9, 18.2];
 
 $hybrid_array[8] = "five more";
