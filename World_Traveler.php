@@ -5,7 +5,7 @@
 	$lek=9094;
 	echo "At the start of your transaction you had $riel riel, $kyat kyat, $krones krones, and $lek lek.";
   $riel_to_usd = 0.00026;
-	$kyat_to_usd = 0.00066;
+	$kyat_to_usd = 0.0066;
 	$krones_to_usd = 0.11;
 	$lek_to_usd = 0.0090;
 	$usd_from_riel = $riel * $riel_to_usd;
