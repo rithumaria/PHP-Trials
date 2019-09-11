@@ -1,7 +1,7 @@
 <?php
   
 $annualExpenses = [
-    "vacations" => 10000,
+    "vacations" => 1000,
     "carRepairs" => 1000,    
 ];
 
